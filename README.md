@@ -1,7 +1,9 @@
 High-Resolution Ecological Niche Model for Dengue Vectors in South Asia
 
 This repository contains the code, processed data, and reproducible workflow used to generate the preliminary 1-km ecological niche model reported in the following preprint:
+
 Mainali, R. (2025). A High-Resolution (1-km) Ecological Niche Model for Dengue Vectors in South Asia.
+
 Link: https://doi.org/10.5281/zenodo.17887592
 
 The full preprint document is also available in the report folder of this repository.
